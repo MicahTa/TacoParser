@@ -1,7 +1,4 @@
-﻿using System;
-using System.Security.Cryptography.X509Certificates;
-
-namespace LoggingKata
+﻿namespace LoggingKata
 {
     /// <summary>
     /// Parses a POI file to locate all the Taco Bells
